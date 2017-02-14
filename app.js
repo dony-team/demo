@@ -19,4 +19,6 @@ const _initRun = function () {
 
 _initRun();
 
+var a = 123;
+
 // new commint .....
